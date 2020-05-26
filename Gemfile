@@ -60,3 +60,7 @@ gem 'bcrypt', '~> 3.1.7'
 
 gem 'jwt'
 gem "active_model_serializers", "~> 0.10.10"
+
+gem "activesupport", ">= 6.0.3.1"
+gem "actionpack", ">= 6.0.3.1"
+gem "activestorage", ">= 6.0.3.1"
